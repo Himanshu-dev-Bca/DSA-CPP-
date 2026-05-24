@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout <<"i would redo all of it myself\n";
+cout <<"the first brick being taken\n";
 return 0;
 }
